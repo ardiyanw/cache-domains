@@ -36,6 +36,11 @@
 			"domain_files": ["frontier.txt"]
 		},
 		{
+			"name": "ml",
+			"description": "CDN for ml games",
+			"domain_files": ["ml.txt"]
+		},
+		{
 			"name": "nexusmods",
 			"description": "Nexus mods / skyrim content",
 			"domain_files": ["nexusmods.txt"]
