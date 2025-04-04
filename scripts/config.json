@@ -1,0 +1,10 @@
+{
+	"ips": {
+		"arwnet":	"172.16.21.201",
+		"generic":	"172.16.21.202"
+	},
+	"cache_domains": {
+		"default": 	"generic",
+		"arwnet": 	"arwnet"
+	}
+}
