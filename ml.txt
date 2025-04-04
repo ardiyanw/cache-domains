@@ -1,2 +1,4 @@
 *.ml.youngjoygame.com
-*.mc.moontontech.com
+akmcdn.mc.moontontech.com
+wscdn.mc.moontontech.com
+cycdn.mc.moontontech.com
